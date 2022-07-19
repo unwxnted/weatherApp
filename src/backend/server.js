@@ -7,6 +7,7 @@ const port = process.env.PORT || 1337;
 app.set('views', path.normalize(path.join(__dirname + '..\\public\\')));
 app.use(express.static(path.normalize(path.join(__dirname + '..\\..\\public'))));
 
+require("./routes")(app);
 
 http.listen(port, () => {
   console.log(`server on: http://localhost:${port}/`);

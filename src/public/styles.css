@@ -208,3 +208,7 @@ h3 {
 .weather {
     display: inline;
 }
+
+#details{
+    font-size: 1.4em;
+}
