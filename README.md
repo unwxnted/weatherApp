@@ -1,2 +1,3 @@
 # weatherApp
-a simple weather app
+a simple weather app maded in nodeJS
+its made for test jeje
