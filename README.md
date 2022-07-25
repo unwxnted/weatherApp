@@ -1,4 +1,9 @@
-# weatherApp
-a simple weather app maded in nodeJS
+# WeatherApp
+a simple weather app maded in nodeJS, express, html, css 
 
-its made for test jeje
+using a rapidApi for weather
+
+## USE
+install dependencies and start the server.js file 
+
+thanks for reading
